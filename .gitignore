@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+/.vs
+/Facepunch.Steamworks/bin
+/Facepunch.Steamworks/obj
+/Godot.Steam/bin
+/Godot.Steam/obj
+/TestProject/.vs
